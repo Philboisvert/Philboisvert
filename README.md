@@ -12,7 +12,7 @@ Bilingual front-end developer based in Drummondville, QC.
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Philboisvert&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Philboisvert&theme=nord&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
