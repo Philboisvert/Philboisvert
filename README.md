@@ -14,7 +14,6 @@ Bilingual front-end developer based in Drummondville, QC.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Philboisvert&theme=tokyonight&hide_border=true&border_radius=10&fire=ff79c6&ring=82AAFF&currStreakNum=82AAFF&sideNums=FFB86C&sideLabels=50fa7b&dates=f8f8f2)](https://git.io/streak-stats)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=philboisvert&theme=vue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ---
 
 ## 📊 My Most Used Languages
